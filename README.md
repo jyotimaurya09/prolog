@@ -5,7 +5,8 @@ This Repository Contains programs written in *Prolog* programming language
 |  | Details |
 | ----------- | ----------- |
 | Author | Jyoti Maurya |
-| Course | MCS-109 AI based Programming Tools |
+| Course | M.Tech Computer Science and Engineering (Artificial Intelligence) |
+| Subject | MCS-109 AI based Programming Tools |
 | University | Indira Gandhi Delhi Technical University for Women |
 | Language | Prolog |
 | Compiler | GNU Prolog (http://www.gprolog.org/) |
